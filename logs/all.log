@@ -7860,3 +7860,29 @@
 2023-02-21 14:43:57:4357 [32minfo[39m: [32mtable sync successful[39m
 2023-02-21 14:44:04:444 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/post 200 328 - 1800.806 ms[39m
 [35m[39m
+2023-02-21 14:44:50:4450 [32minfo[39m: [32mdatabase connected successfuly[39m
+2023-02-21 14:44:53:4453 [32minfo[39m: [32mtable sync successful[39m
+2023-02-23 01:19:16:1916 [32minfo[39m: [32mdatabase connected successfuly[39m
+2023-02-23 01:19:19:1919 [32minfo[39m: [32mtable sync successful[39m
+2023-02-23 01:20:01:201 [31merror[39m: [31mEmail Or Password Incorrect[39m
+2023-02-23 01:20:01:201 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/login 400 467 - 1602.418 ms[39m
+[35m[39m
+2023-02-23 01:20:25:2025 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/signup 200 347 - 6080.176 ms[39m
+[35m[39m
+2023-02-23 01:20:34:2034 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/users/login 200 428 - 1758.453 ms[39m
+[35m[39m
+2023-02-23 01:21:32:2132 [31merror[39m: [31mUnknown column 'topic' in 'field list'[39m
+2023-02-23 01:21:32:2132 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/post 500 2569 - 3491.109 ms[39m
+[35m[39m
+2023-02-23 01:24:03:243 [32minfo[39m: [32mdatabase connected successfuly[39m
+2023-02-23 01:24:31:2431 [32minfo[39m: [32mtable sync successful[39m
+2023-02-23 01:25:02:252 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/post 200 347 - 3920.850 ms[39m
+[35m[39m
+2023-02-23 01:34:48:3448 [31merror[39m: [31mProfile not found[39m
+2023-02-23 01:34:48:3448 [35mhttp[39m: [35m::ffff:127.0.0.1 GET /api/v1/profiles/Love4 404 457 - 1828.727 ms[39m
+[35m[39m
+2023-02-23 01:39:16:3916 [31merror[39m: [31mYou are not logged in, Please Login Again[39m
+2023-02-23 01:39:16:3916 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/profiles/ 403 2295 - 41.265 ms[39m
+[35m[39m
+2023-02-23 01:39:34:3934 [35mhttp[39m: [35m::ffff:127.0.0.1 POST /api/v1/profiles/ 201 499 - 2842.836 ms[39m
+[35m[39m

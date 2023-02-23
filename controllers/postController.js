@@ -7,6 +7,8 @@ const Like = db.likes;
 const { Op } = require("sequelize");
 const contentModifer = require("./../utils/contentModifier");
 
+console.log('Tet');
+
 //IMPORT CLOUDINARY
 const uploadToCloudinary = require("../utils/cloudinaryFunctions");
 

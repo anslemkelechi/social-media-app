@@ -1578,3 +1578,43 @@
 [31m    at Object.<anonymous> (C:\Users\fwesh\Desktop\Code\social-media-app\server.js:1:13)[39m
 2023-02-21 14:41:40:4140 [31merror[39m: [31m404[39m
 2023-02-21 14:42:00:420 [31merror[39m: [31mEmail Or Password Incorrect[39m
+2023-02-23 01:20:01:201 [31merror[39m: [31mEmail Or Password Incorrect[39m
+2023-02-23 01:21:32:2132 [31merror[39m: [31mUnknown column 'topic' in 'field list'[39m
+2023-02-23 01:23:47:2347 [31merror[39m: [31muncaughtException: db.sequelize.sync(...).sync is not a function[39m
+[31mTypeError: db.sequelize.sync(...).sync is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\fwesh\Desktop\Code\social-media-app\models\index.js:113:4)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+[31m    at Object.<anonymous> (C:\Users\fwesh\Desktop\Code\social-media-app\controllers\authController.js:5:12)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+2023-02-23 01:23:51:2351 [31merror[39m: [31muncaughtException: db.sequelize.sync(...).sync is not a function[39m
+[31mTypeError: db.sequelize.sync(...).sync is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\fwesh\Desktop\Code\social-media-app\models\index.js:113:4)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+[31m    at Object.<anonymous> (C:\Users\fwesh\Desktop\Code\social-media-app\controllers\authController.js:5:12)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+2023-02-23 01:23:55:2355 [31merror[39m: [31muncaughtException: db.sequelize.sync(...).sync is not a function[39m
+[31mTypeError: db.sequelize.sync(...).sync is not a function[39m
+[31m    at Object.<anonymous> (C:\Users\fwesh\Desktop\Code\social-media-app\models\index.js:113:4)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:1037:32)[39m
+[31m    at Module._load (node:internal/modules/cjs/loader:878:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1061:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:103:18)[39m
+[31m    at Object.<anonymous> (C:\Users\fwesh\Desktop\Code\social-media-app\controllers\authController.js:5:12)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1159:14)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)[39m
+2023-02-23 01:34:48:3448 [31merror[39m: [31mProfile not found[39m
+2023-02-23 01:39:16:3916 [31merror[39m: [31mYou are not logged in, Please Login Again[39m
